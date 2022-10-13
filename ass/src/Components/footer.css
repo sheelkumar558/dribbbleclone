@@ -1,0 +1,16 @@
+.main {
+  margin-top: 200px;
+  display: grid;
+  grid-template-columns: repeat(6, 200px);
+  gap: 10px;
+  justify-content: space-around;
+}
+.logo-div {
+  display: flex;
+}
+.icon-l {
+  padding: 5px;
+}
+h3 {
+  color: rgb(86, 97, 93);
+}

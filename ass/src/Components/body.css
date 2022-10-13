@@ -1,0 +1,28 @@
+.first-div {
+  display: flex;
+  width: 90%;
+  margin: auto;
+
+  justify-content: space-around;
+  font-size: 15px;
+}
+.img-div {
+  display: flex;
+  line-height: 5px;
+  font-size: 13px;
+}
+.imgp {
+  border-radius: 50%;
+  width: 60px;
+}
+.imgo {
+  margin-top: 20px;
+  text-align: center;
+  padding: 20px;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+.contf {
+  width: 80%;
+  margin: auto;
+}
